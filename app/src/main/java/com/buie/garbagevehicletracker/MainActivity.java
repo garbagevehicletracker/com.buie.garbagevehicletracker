@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
     private WebView webView;
     private boolean doubleBackToExitPressedOnce = false;
-    private static final String HOME_URL = "https://municipality-garbage-tracking.onrender.com/";
+    private static final String HOME_URL = "https://user-frontend-20ms.onrender.com/";
     private ValueCallback<Uri[]> uploadMessage;
     private final static int FILE_CHOOSER_RESULT_CODE = 1;
     private final static int PERMISSION_REQUEST_CODE = 123;
